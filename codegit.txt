@@ -1,0 +1,6 @@
+git init
+git remote add origin #link
+git remote -v (kiem tr add thanh cong)
+git commit -m"add text here"
+git pull origin master
+git push -f origin master
